@@ -5,3 +5,7 @@
 ### **Main Section Title**
 
 #### **Smaller Title**
+
+Steps
+1. Run
+- `python code.py`
