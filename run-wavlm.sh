@@ -7,7 +7,6 @@
 #SBATCH --partition=gpu
 #SBATCH --gpus=1
 
-# Go to the TASKS directory
 cd /script/path
 
 # Activate the virtual environment
