@@ -14,6 +14,10 @@ Analysis code for a study of acoustic and linguistic speech features from daily 
 | `Feature-Extraction/` | openSMILE eGeMAPS, WavLM, LIWC-22, RoBERTa embeddings |
 | `Classification/` | Nested cross-validated XGBoost pipeline, SHAP, 95% CIs |
 
+## Requirements
+
+Python 3.13.1 See `requirements.txt`.
+
 ## Pipeline
 
 Run in order:
@@ -27,13 +31,11 @@ Run in order:
 4. **Classify**
    `python Classification/run_pipeline.py`
 
-## Requirements
 
-Python 3.13.1 See `requirements.txt`.
 
 ## Data
 
 Data are not publicly available due to participant privacy protections. Feature sets will be posted on OSF by the end of August along with the medRxiv preprint. 
 
 ## Contact
-[enemeti@emory.edy]
+[enemeti@emory.edu]
