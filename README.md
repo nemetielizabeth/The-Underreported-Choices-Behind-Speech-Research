@@ -4,8 +4,6 @@ Analysis code for a study of acoustic and linguistic speech features from daily 
 
 > **❗Status:** Manuscript in preparation. A medRxiv preprint link and full citation will be posted here (expected [August] 2026).
 
-![banner-1](banner-1.png)
-
 ## Repository Structure
 
 | Folder | Contents |
@@ -31,7 +29,7 @@ Run in order:
 4. **Classify**
    `python Classification/run_pipeline.py`
 
-
+![banner-1](banner-1.png)
 
 ## Data
 
