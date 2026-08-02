@@ -29,7 +29,7 @@ Run in order:
 
 ## Requirements
 
-Python 3.x. See `requirements.txt`.
+Python 3.13.1 See `requirements.txt`.
 
 ## Data
 
