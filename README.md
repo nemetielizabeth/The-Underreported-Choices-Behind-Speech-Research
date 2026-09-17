@@ -2,7 +2,7 @@
 
 Analysis code for a study of acoustic and linguistic speech features from daily voice diaries with a test case of depression. 
 
-> **❗Status:** Manuscript in preparation. A medRxiv preprint link and full citation will be posted here (expected [August] 2026).
+> **❗Status:** Manuscript in preparation. The full citation will be posted here (expected [September] 2026).
 
 ## Repository Structure
 
