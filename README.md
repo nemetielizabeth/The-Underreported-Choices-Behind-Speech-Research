@@ -52,7 +52,7 @@ Scripts are organized by stage. Each stage has a Python script and, where the jo
 
 ## Data
 
-Data are not publicly available due to participant privacy protections. Feature sets will be posted on OSF by the end of August along with the medRxiv preprint. 
+Data are not publicly available due to IRB + participant privacy protections. Speech derived-feature sets are available instead in the folder 'feature sets' as well as Zenodo. 
 
 ## Contact
 [enemeti@emory.edu]
